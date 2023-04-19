@@ -1,0 +1,17 @@
+{
+  "name": "p5test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.6.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.8.3",
+    "@types/p5": "^1.6.0",
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "@typescript-eslint/parser": "^5.57.0",
+    "eslint": "^8.37.0",
+    "parcel": "^2.8.3",
+    "typescript": "^5.0.2"
+  }
+}
